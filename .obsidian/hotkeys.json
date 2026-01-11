@@ -1,0 +1,38 @@
+{
+  "editor:toggle-bold": [
+    {
+      "modifiers": ["Mod"],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-italics": [
+    {
+      "modifiers": ["Mod"],
+      "key": "I"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": ["Mod"],
+      "key": "Enter"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": ["Mod"],
+      "key": "D"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": ["Mod"],
+      "key": "T"
+    }
+  ],
+  "graph:open": [
+    {
+      "modifiers": ["Mod"],
+      "key": "G"
+    }
+  ]
+}

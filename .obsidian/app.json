@@ -1,1 +1,15 @@
-{}
+{
+  "attachmentFolderPath": "Вложения",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Входящие",
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false
+}

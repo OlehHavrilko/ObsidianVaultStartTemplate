@@ -10,5 +10,9 @@
   "tag-wrangler",
   "quickadd",
   "obsidian-icon-folder",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-dynamic-toc",
+  "obsidian-banners",
+  "obsidian-collapse-all",
+  "obsidian-find-and-replace-in-selection"
 ]
